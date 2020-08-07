@@ -1,1 +1,0 @@
-# gestor-de-productos
